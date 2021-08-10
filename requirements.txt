@@ -1,0 +1,7 @@
+streamlit
+fbprophet
+plotly
+datetime
+yfinance
+requests
+numpy
